@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User component snapshot matches the component snapshot 1`] = `
+<h1>
+  Loading usernames, please wait...
+</h1>
+`;
